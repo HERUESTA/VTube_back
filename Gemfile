@@ -48,7 +48,7 @@ gem "iso8601", "~> 0.13"
 gem "google-api-client", "~> 0.53"
 
 # Environment variables
-gem "dotenv-rails", "~> 2.8", groups: [ :development, :test ]
+gem "dotenv-rails", "~> 3.1", groups: [ :development, :test ]
 
 group :development, :test do
   # See https://guides.rubyonrails.org/debugging_rails_applications.html#debugging-with-the-debug-gem
